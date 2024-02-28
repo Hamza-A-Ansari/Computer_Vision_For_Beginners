@@ -1,0 +1,1 @@
+# How to convert BGR image into Black & White
