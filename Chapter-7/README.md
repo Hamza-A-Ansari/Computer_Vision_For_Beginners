@@ -1,0 +1,1 @@
+# How to convert a BGR video to Grayscale or Black & White
