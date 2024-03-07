@@ -1,0 +1,1 @@
+# How to take input from webcam and convert it into Grayscale and Black & White
